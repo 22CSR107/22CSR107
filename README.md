@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Lathika from CSE. I am Here to create a HTTP Average calculator. I implmented schema,server,controllers and routes. MongoDB code too but not connected.
 
 <!--
 **22CSR107/22CSR107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
